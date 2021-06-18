@@ -89,9 +89,10 @@ namespace base64Research
             EncoderParameters ec = new EncoderParameters();
             pbSrc.Image.Save(srcStream, ImageFormat.Png);
 
-            srcArray = new byte[srcStream.Length];
+            
 
             srcStream.Position = 0;
+            srcArray = new byte[srcStream.Length];
             srcStream.Read(srcArray, 0, Convert.ToInt32(srcStream.Length));
 
             //srcArray = ((MemoryStream)srcStream).ToArray();
@@ -104,8 +105,8 @@ namespace base64Research
             dstStream = new MemoryStream(dstArray);
             //MessageBox.Show(dstStream.Length.ToString());
 
-            dstStream.Position = 0;
-            MessageBox.Show(dstStream.CanRead.ToString());
+            
+            //MessageBox.Show(dstStream.CanRead.ToString());
             pbDst.Image = Image.FromStream(dstStream);
         }
 
