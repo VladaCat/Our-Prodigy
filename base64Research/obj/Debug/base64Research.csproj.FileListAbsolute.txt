@@ -1,0 +1,10 @@
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\bin\Debug\base64Research.exe.config
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\bin\Debug\base64Research.exe
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\bin\Debug\base64Research.pdb
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\obj\Debug\base64Research.csprojAssemblyReference.cache
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\obj\Debug\base64Research.frmBase64.resources
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\obj\Debug\base64Research.Properties.Resources.resources
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\obj\Debug\base64Research.csproj.GenerateResource.cache
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\obj\Debug\base64Research.csproj.CoreCompileInputs.cache
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\obj\Debug\base64Research.exe
+E:\Projects\College\Experiments\OurProdigy\Our-Prodigy\base64Research\obj\Debug\base64Research.pdb
